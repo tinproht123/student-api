@@ -1,62 +1,64 @@
-[
-  {
-    "id": 1,
-    "name": "Nguyễn Gia Khánh Tùng",
-    "email": "tinproht123@gmail.com",
-    "date": "30/01/2002",
-    "gender": "Nam",
-    "phone": "0984228188",
-    "city": "Hà Nội",
-    "job": "Lập Trình Web",
-    "skills": ["C#", "Flutter", "Java"],
-    "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
-  },
-  {
-    "id": 2,
-    "name": "Đào Nguyên Đạt",
-    "email": "dat123@gmail.com",
-    "date": "01/02/2001",
-    "gender": "Nam",
-    "phone": "0921712611",
-    "city": "Hà Nội",
-    "job": "Lập Trình Web",
-    "skills": ["C#", "Html/CSS"],
-    "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
-  },
-  {
-    "id": 3,
-    "name": "Lê Minh Tâm",
-    "email": "mhtam1913@gmail.com",
-    "date": "13/1/2001",
-    "gender": "Nữ",
-    "phone": "0931926961",
-    "city": "TP.Hồ Chí Minh",
-    "job": "App Mobile",
-    "skills": ["C#", "JavaScrip", "Html/CSS"],
-    "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
-  },
-  {
-    "id": 4,
-    "name": "Trịnh Thị Xuân Mai",
-    "email": "Mai123@gmail.com",
-    "date": "22/12/2002",
-    "gender": "Nữ",
-    "phone": "0810171691",
-    "city": "Nam Định",
-    "job": "Lập Trình Web",
-    "skills": ["C#", "Html/Css", "JavaScript"],
-    "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
-  },
-  {
-    "id": 5,
-    "name": "Đinh Văn Dũng",
-    "email": "dung123@gmail.com",
-    "date": "02/06/2002",
-    "gender": "Nam",
-    "phone": "0284197171",
-    "city": "Hà Nội",
-    "job": "App Mobile",
-    "skills": ["C#", "Html/CSS"],
-    "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
-  }
-]
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Gia Khánh Tùng",
+      "email": "tinproht123@gmail.com",
+      "date": "30/01/2002",
+      "gender": "Nam",
+      "phone": "0984228188",
+      "city": "Hà Nội",
+      "job": "Lập Trình Web",
+      "skills": ["C#", "Flutter", "Java"],
+      "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
+    },
+    {
+      "id": 2,
+      "name": "Đào Nguyên Đạt",
+      "email": "dat123@gmail.com",
+      "date": "01/02/2001",
+      "gender": "Nam",
+      "phone": "0921712611",
+      "city": "Hà Nội",
+      "job": "Lập Trình Web",
+      "skills": ["C#", "Html/CSS"],
+      "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
+    },
+    {
+      "id": 3,
+      "name": "Lê Minh Tâm",
+      "email": "mhtam1913@gmail.com",
+      "date": "13/1/2001",
+      "gender": "Nữ",
+      "phone": "0931926961",
+      "city": "TP.Hồ Chí Minh",
+      "job": "App Mobile",
+      "skills": ["C#", "JavaScrip", "Html/CSS"],
+      "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
+    },
+    {
+      "id": 4,
+      "name": "Trịnh Thị Xuân Mai",
+      "email": "Mai123@gmail.com",
+      "date": "22/12/2002",
+      "gender": "Nữ",
+      "phone": "0810171691",
+      "city": "Nam Định",
+      "job": "Lập Trình Web",
+      "skills": ["C#", "Html/Css", "JavaScript"],
+      "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
+    },
+    {
+      "id": 5,
+      "name": "Đinh Văn Dũng",
+      "email": "dung123@gmail.com",
+      "date": "02/06/2002",
+      "gender": "Nam",
+      "phone": "0284197171",
+      "city": "Hà Nội",
+      "job": "App Mobile",
+      "skills": ["C#", "Html/CSS"],
+      "info": "Sinh viên năm 3, đang trong thời gian thực tập tại Simax"
+    }
+  ]
+}
